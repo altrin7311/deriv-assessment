@@ -1,0 +1,21 @@
+{
+  "disclaimer": "AI-GENERATED ANALYSIS. NOT LEGAL ADVICE. Review by qualified counsel before any legal or commercial decision.",
+  "formula": {
+    "points_per_severity": {
+      "critical": 25,
+      "high": 12,
+      "medium": 5,
+      "low": 1
+    },
+    "rule": "score = min(100, sum(count[severity] * points[severity]))"
+  },
+  "severity_distribution": {
+    "critical": 3,
+    "high": 4,
+    "medium": 1,
+    "low": 2
+  },
+  "raw_total_before_cap": 130,
+  "final_score": 100,
+  "justification": "Sum of severities * weights = 130; capped at 100 -> 100. Counts: critical=3, high=4, medium=1, low=2"
+}

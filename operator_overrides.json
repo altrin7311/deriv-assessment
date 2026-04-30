@@ -1,0 +1,67 @@
+{
+  "disclaimer": "AI-GENERATED ANALYSIS. NOT LEGAL ADVICE. Review by qualified counsel before any legal or commercial decision.",
+  "applied_at": "2026-04-30T16:59:46.752413+00:00",
+  "overrides": {},
+  "final_severities": [
+    {
+      "clause_number": 1,
+      "original_severity": "high",
+      "final_severity": "high",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 2,
+      "original_severity": "high",
+      "final_severity": "high",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 3,
+      "original_severity": "critical",
+      "final_severity": "critical",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 4,
+      "original_severity": "low",
+      "final_severity": "low",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 5,
+      "original_severity": "critical",
+      "final_severity": "critical",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 6,
+      "original_severity": "high",
+      "final_severity": "high",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 7,
+      "original_severity": "medium",
+      "final_severity": "medium",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 8,
+      "original_severity": "low",
+      "final_severity": "low",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 9,
+      "original_severity": "high",
+      "final_severity": "high",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 10,
+      "original_severity": "critical",
+      "final_severity": "critical",
+      "was_overridden": false
+    }
+  ]
+}

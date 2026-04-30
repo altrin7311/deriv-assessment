@@ -1,0 +1,66 @@
+{
+  "disclaimer": "AI-GENERATED ANALYSIS. NOT LEGAL ADVICE. Review by qualified counsel before any legal or commercial decision.",
+  "extraction_method": "deterministic_regex",
+  "clauses": [
+    {
+      "clause_number": 1,
+      "clause_title": "SERVICES",
+      "clause_text": "Vendor shall provide software-as-a-service access to the Platform as described in Schedule A.\nVendor reserves the right to modify, suspend, or discontinue any feature of the Platform\nat any time without prior notice to Client.",
+      "word_count": 35
+    },
+    {
+      "clause_number": 2,
+      "clause_title": "PAYMENT TERMS",
+      "clause_text": "Client shall pay all invoices within 14 days of issue. Late payments shall accrue interest\nat 4% per month compounded daily. Vendor may suspend services immediately upon any payment\nbeing 1 day overdue, without notice.",
+      "word_count": 35
+    },
+    {
+      "clause_number": 3,
+      "clause_title": "DATA OWNERSHIP AND PROCESSING",
+      "clause_text": "All data uploaded by Client to the Platform (\"Client Data\") remains the property of Client.\nHowever, Vendor is hereby granted a perpetual, irrevocable, royalty-free licence to use,\nreproduce, modify, and distribute Client Data for the purposes of product improvement,\nanalytics, and training of machine learning models. This licence survives termination.",
+      "word_count": 50
+    },
+    {
+      "clause_number": 4,
+      "clause_title": "CONFIDENTIALITY",
+      "clause_text": "Each party agrees to maintain the confidentiality of the other party's Confidential\nInformation. Vendor's confidentiality obligations shall not apply to information that\nVendor independently develops without reference to Client's information, or that Vendor\nreceives from a third party.",
+      "word_count": 38
+    },
+    {
+      "clause_number": 5,
+      "clause_title": "LIABILITY",
+      "clause_text": "In no event shall Vendor be liable for any indirect, incidental, special, or consequential\ndamages. Vendor's total aggregate liability shall not exceed the fees paid by Client in\nthe one (1) month prior to the claim. This limitation applies even in cases of Vendor's\ngross negligence or wilful misconduct.",
+      "word_count": 49
+    },
+    {
+      "clause_number": 6,
+      "clause_title": "INTELLECTUAL PROPERTY",
+      "clause_text": "Any customisations, integrations, or derivative works created by Vendor at Client's request\nshall remain the sole property of Vendor. Client is granted a non-exclusive,\nnon-transferable licence to use such works solely during the term of this Agreement.",
+      "word_count": 37
+    },
+    {
+      "clause_number": 7,
+      "clause_title": "TERMINATION",
+      "clause_text": "Either party may terminate this Agreement with 90 days written notice. Upon termination,\nClient shall have 7 days to export their data. After 7 days, Vendor may permanently delete\nall Client Data without further notice or liability.",
+      "word_count": 37
+    },
+    {
+      "clause_number": 8,
+      "clause_title": "GOVERNING LAW",
+      "clause_text": "This Agreement shall be governed by the laws of the Cayman Islands. All disputes shall be\nresolved by binding arbitration in the Cayman Islands, with arbitration costs borne equally\nby both parties regardless of outcome.",
+      "word_count": 35
+    },
+    {
+      "clause_number": 9,
+      "clause_title": "MODIFICATIONS",
+      "clause_text": "Vendor may modify these terms at any time by posting updated terms on its website.\nClient's continued use of the Platform constitutes acceptance of the modified terms.",
+      "word_count": 27
+    },
+    {
+      "clause_number": 10,
+      "clause_title": "INDEMNIFICATION",
+      "clause_text": "Client shall indemnify, defend, and hold harmless Vendor from any claims arising out of\nClient's use of the Platform, including claims arising from Vendor's own negligence.",
+      "word_count": 26
+    }
+  ]
+}

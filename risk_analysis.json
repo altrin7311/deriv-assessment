@@ -1,0 +1,175 @@
+{
+  "disclaimer": "AI-GENERATED ANALYSIS. NOT LEGAL ADVICE. Review by qualified counsel before any legal or commercial decision.",
+  "stage_1_risk_scoring": [
+    {
+      "clause_number": 1,
+      "risk_category": "unilateral_modification",
+      "severity": "high",
+      "one_sentence_risk_summary": "Vendor has the right to modify, suspend, or discontinue any feature of the Platform at any time without prior notice to Client.",
+      "is_non_standard": true
+    },
+    {
+      "clause_number": 2,
+      "risk_category": "financial_exposure",
+      "severity": "high",
+      "one_sentence_risk_summary": "Client is required to pay all invoices within 14 days and late payments accrue interest at 4% per month compounded daily.",
+      "is_non_standard": true
+    },
+    {
+      "clause_number": 3,
+      "risk_category": "data_rights",
+      "severity": "critical",
+      "one_sentence_risk_summary": "Vendor is granted a perpetual, irrevocable, royalty-free licence to use, reproduce, modify, and distribute Client Data for various purposes.",
+      "is_non_standard": true
+    },
+    {
+      "clause_number": 4,
+      "risk_category": "data_rights",
+      "severity": "low",
+      "one_sentence_risk_summary": "Both parties agree to maintain the confidentiality of each other's Confidential Information.",
+      "is_non_standard": false
+    },
+    {
+      "clause_number": 5,
+      "risk_category": "liability_cap",
+      "severity": "critical",
+      "one_sentence_risk_summary": "Vendor's total aggregate liability is limited to the fees paid by Client in the one month prior to the claim, even in cases of gross negligence or wilful misconduct.",
+      "is_non_standard": true
+    },
+    {
+      "clause_number": 6,
+      "risk_category": "ip_ownership",
+      "severity": "high",
+      "one_sentence_risk_summary": "Any customisations, integrations, or derivative works created by Vendor at Client's request remain the sole property of Vendor.",
+      "is_non_standard": true
+    },
+    {
+      "clause_number": 7,
+      "risk_category": "termination_rights",
+      "severity": "medium",
+      "one_sentence_risk_summary": "Either party may terminate the Agreement with 90 days written notice, and Client has 7 days to export their data after termination.",
+      "is_non_standard": false
+    },
+    {
+      "clause_number": 8,
+      "risk_category": "dispute_resolution",
+      "severity": "low",
+      "one_sentence_risk_summary": "The Agreement is governed by the laws of the Cayman Islands, and disputes are resolved by binding arbitration with costs borne equally by both parties.",
+      "is_non_standard": false
+    },
+    {
+      "clause_number": 9,
+      "risk_category": "unilateral_modification",
+      "severity": "high",
+      "one_sentence_risk_summary": "Vendor may modify the terms at any time by posting updated terms on its website, and Client's continued use constitutes acceptance of the modified terms.",
+      "is_non_standard": true
+    },
+    {
+      "clause_number": 10,
+      "risk_category": "liability_cap",
+      "severity": "critical",
+      "one_sentence_risk_summary": "Client is required to indemnify, defend, and hold harmless Vendor from any claims arising out of Client's use of the Platform, including claims arising from Vendor's own negligence.",
+      "is_non_standard": true
+    }
+  ],
+  "stage_2_deep_analysis": [
+    {
+      "clause_number": 3,
+      "harm_mechanism": "The perpetual, irrevocable, royalty-free licence granted to the Vendor could lead to unintended use, modification, or distribution of Client Data, potentially causing reputational harm, data breaches, or unauthorized commercial exploitation, even after the contract is terminated.",
+      "precedent_framing": "In similar contracts, it is common to include limitations on the use of client data, such as restricting it to specific purposes, requiring opt-in consent for broader uses, and ensuring that any licence granted is revocable upon termination. Citing industry norms, such as those found in data processing agreements under the GDPR, can support a more balanced approach to data ownership and usage rights.",
+      "redline_suggestions": [
+        "Add 'except as otherwise agreed in writing by Client' to limit the Vendor's licence to use Client Data.",
+        "Insert 'for the term of this Agreement and for a period of [X] months/years thereafter' to make the licence revocable and time-limited.",
+        "Specify 'only for the purposes explicitly stated in this Agreement' to narrow down the Vendor's allowed uses of Client Data."
+      ],
+      "market_standard_comparison": "Typically, contracts include provisions that ensure client data is used only for the specific purposes of the agreement, with any additional uses requiring explicit consent. For example, 'Vendor may use Client Data solely to perform its obligations under this Agreement and for no other purpose without Client's prior written consent.'",
+      "basis": "The analysis is based on the principle that clients should maintain control over their data, and any licence granted to vendors should be limited, revocable, and tied to specific, agreed-upon purposes to protect against potential misuse or unauthorized exploitation."
+    },
+    {
+      "clause_number": 5,
+      "harm_mechanism": "This clause causes harm by limiting the Vendor's liability to a minimal amount, potentially leaving the Client with significant uncovered losses in the event of the Vendor's gross negligence or wilful misconduct, which could lead to substantial financial harm and undermine the Client's ability to recover damages.",
+      "precedent_framing": "In negotiations, this clause should be framed as inconsistent with market norms, which typically do not limit liability to such a low threshold, especially in cases of gross negligence or wilful misconduct. Citing industry standards and precedents where liability limits are more reasonably tied to the contract's overall value or where such limits do not apply in cases of severe misconduct can help in renegotiating this term.",
+      "redline_suggestions": [
+        "Vendor's total aggregate liability shall not exceed the total fees paid by Client under this Agreement.",
+        "The limitation on liability shall not apply in cases of Vendor's gross negligence or wilful misconduct.",
+        "Vendor's total aggregate liability shall be limited to three times the fees paid by Client in the twelve (12) months prior to the claim, except in cases of gross negligence or wilful misconduct, where liability shall be determined based on the actual damages incurred."
+      ],
+      "market_standard_comparison": "Market-standard wording typically includes provisions that limit liability but often with higher caps (e.g., the total contract value over its term) and exceptions for gross negligence or wilful misconduct. For example, 'Vendor's total aggregate liability for damages under this Agreement shall not exceed the total amount paid by Client to Vendor under this Agreement, provided that this limitation shall not apply to claims arising from Vendor's gross negligence or wilful misconduct.'",
+      "basis": "The basis for this analysis is the comparison with standard contractual practices in similar industries and agreements, where liability is often capped but with consideration for the overall contract value and with exceptions for severe forms of negligence or misconduct. This ensures a more balanced risk allocation between the parties."
+    },
+    {
+      "clause_number": 10,
+      "harm_mechanism": "This clause creates a one-sided obligation where the Client bears all the risk of using the Platform, including claims arising from the Vendor's own negligence, which could lead to significant financial and reputational harm to the Client in case of a dispute or liability claim.",
+      "precedent_framing": "In similar contracts, it is common to see mutual indemnification clauses that balance the risks between both parties, or clauses that limit indemnification to cases where the indemnifying party is grossly negligent or willfully misconducts. We should negotiate for a more balanced approach, citing industry norms and standards.",
+      "redline_suggestions": [
+        "Client shall indemnify, defend, and hold harmless Vendor from any claims arising out of Client's gross negligence or willful misconduct in connection with the use of the Platform.",
+        "The parties shall mutually indemnify each other against any claims arising from their respective use of the Platform, except for claims arising from a party's gross negligence or willful misconduct.",
+        "Vendor shall indemnify, defend, and hold harmless Client from any claims arising out of Vendor's negligence or willful misconduct in connection with the provision of the Platform."
+      ],
+      "market_standard_comparison": "Typically, indemnification clauses in technology contracts are mutual, with each party agreeing to indemnify the other against certain types of claims, and often include carve-outs for gross negligence, willful misconduct, or breach of contract.",
+      "basis": "The basis for this analysis is the principle of fairness and balance in contractual obligations, as well as industry norms and standards for indemnification clauses in technology contracts, which suggest that mutual or reciprocal obligations are more common and reasonable."
+    }
+  ],
+  "final_severities": [
+    {
+      "clause_number": 1,
+      "original_severity": "high",
+      "final_severity": "high",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 2,
+      "original_severity": "high",
+      "final_severity": "high",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 3,
+      "original_severity": "critical",
+      "final_severity": "critical",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 4,
+      "original_severity": "low",
+      "final_severity": "low",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 5,
+      "original_severity": "critical",
+      "final_severity": "critical",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 6,
+      "original_severity": "high",
+      "final_severity": "high",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 7,
+      "original_severity": "medium",
+      "final_severity": "medium",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 8,
+      "original_severity": "low",
+      "final_severity": "low",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 9,
+      "original_severity": "high",
+      "final_severity": "high",
+      "was_overridden": false
+    },
+    {
+      "clause_number": 10,
+      "original_severity": "critical",
+      "final_severity": "critical",
+      "was_overridden": false
+    }
+  ]
+}

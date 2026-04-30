@@ -1,0 +1,19 @@
+{
+  "risk_framework": {
+    "categories": [
+      "data_rights",
+      "financial_exposure",
+      "liability_cap",
+      "ip_ownership",
+      "termination_rights",
+      "dispute_resolution",
+      "unilateral_modification"
+    ],
+    "severity_levels": {
+      "critical": "Clause creates asymmetric obligation that could cause significant financial, legal, or reputational harm",
+      "high": "Clause is non-standard in favour of the vendor with material implications",
+      "medium": "Clause is aggressive but common in vendor contracts; worth negotiating",
+      "low": "Standard clause; acceptable with minor modification or as-is"
+    }
+  }
+}

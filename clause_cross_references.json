@@ -1,0 +1,23 @@
+{
+  "disclaimer": "AI-GENERATED ANALYSIS. NOT LEGAL ADVICE. Review by qualified counsel before any legal or commercial decision.",
+  "cross_references": [
+    {
+      "clause_a": 3,
+      "clause_b": 7,
+      "combined_risk_description": "Broad data licence combined with weak termination rights allows Vendor to retain and exploit Client Data even after Agreement termination, with limited time for Client to export their data.",
+      "combined_severity": "critical"
+    },
+    {
+      "clause_a": 5,
+      "clause_b": 10,
+      "combined_risk_description": "Low liability cap combined with indemnity clause shifts significant financial risk to Client, as they must indemnify Vendor against claims, including those arising from Vendor's own negligence, while Vendor's liability is severely limited.",
+      "combined_severity": "critical"
+    },
+    {
+      "clause_a": 1,
+      "clause_b": 9,
+      "combined_risk_description": "Unilateral modification rights combined with the ability to modify terms without prior notice creates significant uncertainty and risk for Client, as they may be bound by changed terms without opportunity to negotiate or exit the Agreement.",
+      "combined_severity": "high"
+    }
+  ]
+}
