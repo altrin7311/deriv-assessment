@@ -1,0 +1,13 @@
+timestamp,price,signal,confidence,short_ma,long_ma,z_score,momentum,reasons
+2026-04-29 15:36:10,625.09,BUY,67%,625.0160,624.7750,1.16,0.0600,MA crossover ↑ | Momentum +
+2026-04-29 15:36:12,625.19,BUY,67%,625.0480,624.8100,1.37,0.1800,MA crossover ↑ | Momentum +
+2026-04-29 15:36:14,625.34,HOLD,33%,625.1140,624.8390,1.67,0.3800,MA crossover ↑ | Z-score HIGH (1.67) | Momentum +
+2026-04-29 15:36:16,625.34,BUY,67%,625.1900,624.8650,1.49,0.3500,MA crossover ↑ | Momentum +
+2026-04-29 15:36:18,625.39,BUY,67%,625.2700,624.8995,1.46,0.3000,MA crossover ↑ | Momentum +
+2026-04-29 15:36:20,625.52,HOLD,33%,625.3560,624.9510,1.64,0.3300,MA crossover ↑ | Z-score HIGH (1.64) | Momentum +
+2026-04-29 15:36:22,625.24,HOLD,0%,625.3660,624.9860,0.75,-0.1000,MA crossover ↑ | Momentum -
+2026-04-29 15:36:24,625.11,HOLD,0%,625.3200,625.0120,0.30,-0.2300,MA crossover ↑ | Momentum -
+2026-04-29 15:36:26,625.02,HOLD,0%,625.2560,625.0460,-0.09,-0.3700,MA crossover ↑ | Momentum -
+2026-04-29 15:36:28,625.04,HOLD,0%,625.1860,625.0825,-0.18,-0.4800,MA crossover ↑ | Momentum -
+2026-04-29 15:36:30,625.01,SELL,67%,625.0840,625.1045,-0.46,-0.2300,MA crossover ↓ | Momentum -
+2026-04-29 15:36:32,625.23,HOLD,0%,625.0820,625.1385,0.56,0.1200,MA crossover ↓ | Momentum +
